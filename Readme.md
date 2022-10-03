@@ -1,18 +1,18 @@
-# Rocket-Explorer-Projeto1
+# Rocket-Explorer-Projeto3
 
 ![preview](./images/preview.png)
 
 >PT-BR
 
-Primeiro projeto da turma Explorer da Rocketseat.
+Terceiro Projeto da Turma Explorer da Rocketseat
 
-🔗 [Clique aqui para acessar](https://joaoeduardorrocha.github.io/Rocket-Explorer-Projeto2/)
+🔗 [Clique aqui para acessar]()
 
 >EN-US
 
-First project of the Rocketseat Explorer class.
+Third project of the Rocketseat Explorer class.
 
-🔗 [Click here to see it](https://joaoeduardorrocha.github.io/Rocket-Explorer-Projeto2/)
+🔗 [Click here to see it]()
 
 ## ⚙️ Languages
 
